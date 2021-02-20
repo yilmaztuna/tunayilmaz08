@@ -87,7 +87,7 @@
 </a>  
   
 
-<A HREF=“mailto:contact@tunayilmaz.info">Contact With Mail!</A>  
+contact@tunayilmaz.info <b>Contact With Mail!</b>  
   
 
 <br/>  
@@ -99,10 +99,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+
 
 <br/>  
 
