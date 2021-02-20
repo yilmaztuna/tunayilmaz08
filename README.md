@@ -1,53 +1,26 @@
+<h1 align="center">Hi 👋, I'm Tuna Yılmaz</h1>
+<h3 align="center">Tuna Yılmaz,</h3>
 
-<h1 align="center" style="display:none;"></h1>
+- 🔭 I’m currently working on [Odies Development](odies.net)
 
+- 🌱 I’m currently learning **CSS, HTML exc...**
 
+- 🤝 I’m looking for help with [Websites](tunayilmaz.info)
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+- 👨‍💻 All of my projects are available at [tunayilmaz.info](tunayilmaz.info)
 
+- 💬 Ask me about **discordjs, javascript, html.**
 
-### I'm [Tuna Yılmaz](https://tunayilmaz.info) Web and discord developer.
+- 📫 How to reach me **contact@tunayilmaz.info**
 
-- 👨‍💻 Currently working on web development technologies JavaScript, Ejs, CSS etc.
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play valorant..
+- ⚡ Fun fact **I am just crayz. :O**
 
-## Visitor hit :![Visitor Count](https://profile-counter.glitch.me/dude030/count.svg)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/tunayilmaz08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tunayilmaz08" height="30" width="40" /></a>
+<a href="https://discord.gg/mrZXWBpr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="mrZXWBpr" height="30" width="40" /></a>
+</p>
 
-### Contact with me 📝
-<b>Tuna 🍁#3981</b>
-<img align="left" alt="Webiste" height="30px" src="https://www.flaticon.com/premium-icon/icons/svg/2504/2504896.svg" />
-</a>
-<a href="https://elixxrade.me">
-<img align="left" alt="Webiste" height="30px" src="https://www.flaticon.com/svg/vstatic/svg/1450/1450332.svg?token=exp=1613681732~hmac=68dc93b1a26c0eac2b5234c29a7291fd" />
-</a>
-New links soon ...
-<br />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
----
-
-### Languages and Tools 🛠 
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![Material-UI](https://img.shields.io/badge/-Material%E2%80%93UI-0081CB?style=flat-square&logo=material-ui)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-
-<br/>
-
----
-
-### Discord servers 🛠 
-[Redoya Internet and Information Services](https://discord.gg/N9cHzYM)<br/>
-[Odies Development](https://discord.gg/ZqSftBrBBU)<br/>
-[My private server](https://discord.gg/9WFM2w2cNx)
-<br/>
