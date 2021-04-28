@@ -6,7 +6,7 @@
 ### <div align="center">Hi! Frontend Developer!</div>  
   
 
-- 🔭 I’m currently working on [Odies Development](https://odies.com)  
+- 🔭 I’m currently working on [Odies Development](https://odies.net)  
   
 
 - 🌱 I’m currently learning HTML, CSS and Javascript  
