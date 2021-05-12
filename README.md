@@ -39,18 +39,7 @@
 </div>
 
 </td><td valign="top" width="50%">
-
-
-
-### Backend  
-
-
-
-
-
-### DevOps  
-
-</td></tr></table>  
+ 
 
 <br/>  
 
