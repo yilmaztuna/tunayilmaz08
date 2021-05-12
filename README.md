@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to discordjs, html and css.  
   
 
-- ⚡ Fun fact: I am playing Valorant 😀  
+- ⚡ Fun fact: I am playing nothing 😀  
   
 
 <br/>  
